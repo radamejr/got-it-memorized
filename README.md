@@ -2,8 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting Started
 
-You can visit this application in the wild by clicking [here.](https://got-it-memorized.herokuapp.com/)
-In order to add, comment or rate locations you will have to sign up for an account. Don't worry its simple and easy just click the signup button in the main navigation menu!
+This application is a showcase of using React in order build out a Sticky Note style web-application. You can visit this Application in its live location [here.](https://got-it-memorized.herokuapp.com/).
 
 ## Notable Languages, Systems and Gems Used
 
