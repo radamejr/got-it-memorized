@@ -6,7 +6,7 @@ class Nav extends React.Component {
 
     return (
       <div className="nav-container">
-        <div className="nav-logo">Note</div>
+        <div className="nav-logo" onClick={() => window.location.reload()}>Got it MEMO-rized?</div>
         <div className="nav-button" onClick={() => toggleNote()} > 
           { showNote ? 'Cancel' : '+ Note'}
         </div>
