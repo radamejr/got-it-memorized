@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Getting Started
 
 This application is a showcase of using React in order build out a Sticky Note style web-application. You can visit this Application in its live location [here.](https://got-it-memorized.herokuapp.com/).
